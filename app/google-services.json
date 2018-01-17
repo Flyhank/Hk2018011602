@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "619138597805",
+    "firebase_url": "https://hk2018011602.firebaseio.com",
+    "project_id": "hk2018011602",
+    "storage_bucket": "hk2018011602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619138597805:android:58a49d53ba6b2510",
+        "android_client_info": {
+          "package_name": "com.n9s.flyjet.hk2018011602"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619138597805-2m323tn7j9r8p6p0sesjc1abiconpl0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.n9s.flyjet.hk2018011602",
+            "certificate_hash": "0281d72e5717bbfe0eb9711d0429fb4c4aa75a78"
+          }
+        },
+        {
+          "client_id": "619138597805-0a9qva4hc95isaib4nv8gpfb2errrv17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAih7c3tHnAAwYWJZPBGZ-8FXLwGRfG1uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619138597805-0a9qva4hc95isaib4nv8gpfb2errrv17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
